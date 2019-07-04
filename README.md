@@ -12,7 +12,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-#################################################################
+### 'How to run project'
 To Set up the project, clone the folders on your local machine and run 'npm install' to install all the dependencies.
 Once the installation is successful, run 'npm run start' to run the project. 
 Open 'http://localhost:3000' to view it in browser.
