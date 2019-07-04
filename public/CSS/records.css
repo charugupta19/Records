@@ -1,0 +1,54 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 15px;
+  }
+  
+  .spacer24 {
+    height: 24px;
+}
+
+#Records {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #Records td, #Records th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #Records tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #Records tr:hover {background-color: #ddd;}
+  
+  #Records th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+
+.searchLabel {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.searchInput {
+    margin: .4rem 0;
+    padding: 10px;
+}
+
+.searchButton {
+    padding: 10px;
+}
+
+.editButton {
+    padding: 10px;
+    float: right;
+    margin-top: 10px;
+}
