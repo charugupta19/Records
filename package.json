@@ -1,0 +1,17 @@
+{
+  "name": "records",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^5.0.7",
+    "react-scripts": "3.0.1",
+    "react-search": "^2.1.0",
+    "redux": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+  }
+}
